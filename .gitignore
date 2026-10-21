@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# keep secrets out of the repo
+.env
+*.key
+*.pem
+*.iso
+*.vhdx
+*.vmdk
+users.csv
